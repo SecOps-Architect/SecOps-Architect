@@ -15,4 +15,4 @@ Titulaire du **Titre Professionnel AIS (RNCP 6 - Bac+3/4)**, j'allie **18 ans d'
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00a9e5?style=for-the-badge&logo=wazuh&logoColor=white)
 
-[cite_start]📫 **Me contacter :** [maxime.truyen@orange.fr](mailto:maxime.truyen@orange.fr) [cite: 69] | [cite_start][LinkedIn](https://www.linkedin.com/in/maxime-truyen-Administrateur-Informatique-Cybersécurité) [cite: 101]
+📫 **Me contacter :** [maxime.truyen@orange.fr](mailto:maxime.truyen@orange.fr) | [LinkedIn](https://www.linkedin.com/in/maxime-truyen-Administrateur-Informatique-Cybersécurité)
